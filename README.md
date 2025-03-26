@@ -12,7 +12,7 @@
 - Using SQL to aggregate and analyze population health data to identify trends, improve preventive care, and manage public health initiatives.
 
 **3. Clinical Research**:
-– Leveraging SQL to mine and analyze data from clinical trials and research studies, improving the development of new treatments and therapies.
+- Leveraging SQL to mine and analyze data from clinical trials and research studies, improving the development of new treatments and therapies.
 
 **4. Healthcare Administration**:
-– Integrating and managing administrative data to improve operational efficiencies, such as hospital resource allocation and staffing.
+- Integrating and managing administrative data to improve operational efficiencies, such as hospital resource allocation and staffing.
