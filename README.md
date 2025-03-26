@@ -17,7 +17,7 @@
 *4. Healthcare Administration*:
 - Integrating and managing administrative data to improve operational efficiencies, such as hospital resource allocation and staffing.
 
-  **Data Analytics Workflow:** 
+**Data Analytics Workflow:** 
 
 *1. Dataset Exploration*: 
 - The dataset is obtained 
