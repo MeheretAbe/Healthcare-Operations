@@ -1,4 +1,4 @@
-# Healthcare-Operations-and-Research
+# Healthcare Operations and Research
 
 
 **Project:** Healthcare Data Integration with SQL
