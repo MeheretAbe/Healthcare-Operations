@@ -1,0 +1,9 @@
+--What is the demographic profile of the patient population, including age and gender distribution?
+   -- 1. Filtering out NULL values in the Patient Table
+
+DELETE from [Healthcare_Database].[dbo].[Patient Table]
+WHERE patient_id IS NULL
+  AND patient_name IS NULL
+  AND date_of_birth IS NULL
+  AND gender IS NULL
+  AND address IS NULL;
